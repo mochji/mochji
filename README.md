@@ -1,18 +1,4 @@
-<div id="top" align="center">
 
-  <br>
-
-  <a href="x-xxoa.tumblr.com">
-    <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"></img>
-  </a>
-  <a href="youtube.com/@xxoa_">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img>
-  </a>
-  <br>
-
-</div>
-
-***
 
 ## ABOUT ME
 I am a Lua programmer that enjoys programming in their free time.
