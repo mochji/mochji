@@ -1,10 +1,5 @@
-
-
 ## ABOUT ME
-I am a Lua programmer that enjoys programming in their free time.
-   - I like algorithms, math & visualising data.
-   - I'm exploring low-level programming for the first time.
-   - If you bring up Half-Life or Portal when talking to me I will just go off, I could focus on Half-Life or Portal for hours on end.
+I'm a Lua programmer & Half-Life & Portal fan, I find visualizing data and math really cool and I like algorithms.
 
 ***
 
