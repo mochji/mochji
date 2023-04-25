@@ -1,5 +1,10 @@
 ## ABOUT ME
-I'm a Lua programmer & Half-Life & Portal fan, I find visualizing data and math really cool and I like algorithms.
+
+ - I like math (lmaoo nerd go do something like uhhh go outside or something)
+ - I like algorithms
+ - I like visualising data
+ - I program mainly in Lua
+ - Half-Life and Portal fan
 
 ***
 
