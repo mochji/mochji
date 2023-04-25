@@ -6,6 +6,8 @@
  - I program mainly in Lua
  - Half-Life and Portal fan
 
+I just realised the rest of my life is writing text on a dark background making computers do math (sometimes, other times it gives me errors)
+
 ***
 
 ## LANGUAGES & TOOLS I USE
