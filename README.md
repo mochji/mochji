@@ -14,8 +14,8 @@ I just realised the rest of my life is writing text on a dark background making 
 
 ## OS
 
-<img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" title="Windows 11" alt="Windows 11" width="40" height="40">&nbsp;
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" title="Arch Linux" alt="Arch Linux" width="40" height="40">&nbsp;
+<img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" title="Windows 11" alt="Windows 11" height="40">&nbsp;
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" title="Arch Linux" alt="Arch Linux" height="40">&nbsp;
 
 ## LANGUAGES & TOOLS I USE
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40">&nbsp;
