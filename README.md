@@ -1,5 +1,3 @@
-### your average arch linux user, half life 2 fanatic, lua programmer and machine learning interested femboy
-
 ## ABOUT ME
 
  - I like math (lmaoo nerd go do something like uhhh go outside or something)
