@@ -10,9 +10,13 @@
 
 ## WHAT I USE
 **OS:** Arch Linux
+
 **DE:** KDE Plasma X11
+
 **TEXT EDITOR:** Neovim
+
 **MOST USED LANGUAGE:** Lua
+
 **2ND MOST USED LANGUAGE:** C
 
 ***
