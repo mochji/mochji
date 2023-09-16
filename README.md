@@ -1,12 +1,16 @@
-### im burnt out right now lol, sorry for not working on synapsea for a while
+## NOTE
+
+hi im burnt out right now, im passionate about programming but theres a lot going on right now, sorry i cant work on synapsea for a while :sob:
 
 ## ABOUT ME
 
- - I like math (lmaoo nerd go do something like uhhh go outside or something)
- - I like algorithms
- - I like visualising data
- - I program mainly in Lua
- - Half-Life and Portal fan
+ - 📈 Likes math
+ - 🖥 Likes algorithms
+ - 📚 Likes data
+ - 🌈 Gender Fluid
+ - 🏳️‍⚧️ Transfem
+ - 🟨⬜🟪⬛ Femby
+ - ☢️ Half-Life Nerd
 
 ***
 
