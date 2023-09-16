@@ -1,3 +1,5 @@
+### im burnt out right now lol, sorry for not working on synapsea for a while
+
 ## ABOUT ME
 
  - I like math (lmaoo nerd go do something like uhhh go outside or something)
