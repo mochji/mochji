@@ -4,11 +4,10 @@ hi im burnt out right now, im passionate about programming but theres a lot goin
 
 ## ABOUT ME
 
+ - **they/them**
  - 📈 Likes math
  - 🖥 Likes algorithms
  - 📚 Likes data
- - 🌈 Gender Fluid
- - 🏳️‍⚧️ Transfem
  - 🟨⬜🟪⬛ Femby
  - ☢️ Half-Life Nerd
 
