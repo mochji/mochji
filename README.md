@@ -16,9 +16,7 @@
 
 **TEXT EDITOR:** Neovim
 
-**MOST USED LANGUAGE:** Lua
-
-**2ND MOST USED LANGUAGE:** C
+**FAVORITE LANGUAGES** C, Lua
 
 ***
 
