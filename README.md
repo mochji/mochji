@@ -1,7 +1,3 @@
-## NOTE
-
-hi im burnt out right now, im passionate about programming but theres a lot going on right now, sorry i cant work on synapsea for a while :sob:
-
 ## ABOUT ME
 
  - **they/them**
