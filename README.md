@@ -24,6 +24,6 @@
 
 ## MY STATS
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=x-xxoa&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mochji&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x-xxoa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochji&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
