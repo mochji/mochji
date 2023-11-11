@@ -1,10 +1,10 @@
 ## ABOUT ME
 
- - **they/them**
+ - :rainbow: **they/them**
  - 📈 Likes math
  - 🖥 Likes algorithms
  - 📚 Likes data
- - 🟨⬜🟪⬛ Femby
+ - 🟨⬜🟪⬛ Fenby
  - ☢️ Half-Life Nerd
 
 ***
