@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://github.com/mochji/mochji/assets/117334318/36190986-20fb-4029-a4cd-cef161ad9358">
+</p>
+
+
 ## ABOUT ME
 
  - :rainbow: **they/them**
