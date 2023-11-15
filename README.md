@@ -5,11 +5,11 @@
 
 ## ABOUT ME
 
- - :rainbow: **they/them**
+ - :rainbow: **they/she**
  - 📈 Likes math
  - 🖥 Likes algorithms
  - 📚 Likes data
- - 🟨⬜🟪⬛ Fenby
+ - 🟨⬜🟪⬛ Genderfluid
  - ☢️ Half-Life Nerd
 
 ***
