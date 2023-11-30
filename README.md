@@ -5,12 +5,11 @@
 
 ## ABOUT ME
 
- - :rainbow: **they/them**
- - 📈 Likes math
- - 🖥 Likes algorithms
- - 📚 Likes data
- - 🟨⬜🟪⬛ Fenby
- - ☢️ Half-Life Nerd
+ - 🟨⬜🟪⬛ **they/them**
+ - 📈 Math nerd
+ - 🖥 Algorithm nerd
+ - 📚 Data nerd
+ - ☢️ Half-Life nerd
 
 ***
 
@@ -21,7 +20,7 @@
 
 **TEXT EDITOR:** Neovim
 
-**FAVORITE LANGUAGES** C, Lua
+**LANGUAGES** C, Lua
 
 ***
 
