@@ -24,6 +24,13 @@
 
 ***
 
+## MAIN PROJECTS
+
+- **Synapsea (Lua):** A simple yet powerful and expandable ML framework for Lua.
+- **Crescent (C):** (not sure, maybe an interpreted programming language?)
+
+***
+
 ## MY STATS
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mochji&theme=highcontrast)](https://git.io/streak-stats)
