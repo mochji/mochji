@@ -6,6 +6,7 @@
 ## ABOUT ME
 
  - 🟨⬜🟪⬛ **they/them**
+ - Genderfluid
  - 📈 Math nerd
  - 🖥 Algorithm nerd
  - 📚 Data nerd
