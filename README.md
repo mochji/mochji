@@ -28,7 +28,7 @@
 ## MAIN PROJECTS
 
 - **Synapsea (Lua):** A simple yet powerful and expandable ML framework for Lua.
-- **Crescent (C):** Currently a simple virtual stack in C. (will probably grow into an interpreted langauge)
+- **Crescent (C):** An interpreted programming language.
 
 ***
 
