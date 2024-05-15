@@ -5,7 +5,7 @@
 
 ## ABOUT ME
 
- - 🟨⬜🟪⬛ **they/them**
+ - 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ **she/her**
  - 🟨⬜🟪⬛ Genderfluid
  - 📈 Math nerd
  - 🖥 Algorithm nerd
