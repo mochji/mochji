@@ -5,12 +5,12 @@
 
 ## ABOUT ME
 
- - 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ **she/her**
- - 🟨⬜🟪⬛ Genderfluid
- - 📈 Math nerd
- - 🖥 Algorithm nerd
- - 📚 Data nerd
- - ☢️ Half-Life nerd
+ - she/her
+ - Genderfluid
+ - Math nerd
+ - Algorithm nerd
+ - Data nerd
+ - Half-Life nerd
 
 ***
 
