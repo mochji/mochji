@@ -3,36 +3,24 @@
 </p>
 
 
-## ABOUT ME
+## about me
 
- - she/her
- - Genderfluid
- - Math nerd
- - Algorithm nerd
- - Data nerd
- - Half-Life nerd
+- **pronouns:** she/her
+- **interests:** programming, computer science, math, statistics
+- **other interests:** half-life, homestuck, oneshot
 
-***
+## what i use
 
-## WHAT I USE
-**OS:** Arch Linux
+- **os:** Arch Linux
+- **de:** KDE Plasma Wayland
+- **text editor:** Neovim
+- **languages** C, Lua
 
-**DE:** KDE Plasma X11
+## projects
 
-**TEXT EDITOR:** Neovim
+- **crescent (C):** A math-focused interpreted programming language based on Lua
 
-**LANGUAGES** C, Lua
-
-***
-
-## MAIN PROJECTS
-
-- **Synapsea (Lua):** A simple yet powerful and expandable ML framework for Lua.
-- **Crescent (C):** An interpreted programming language.
-
-***
-
-## MY STATS
+## stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mochji&theme=highcontrast)](https://git.io/streak-stats)
 
