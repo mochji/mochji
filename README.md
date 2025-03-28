@@ -7,7 +7,7 @@
 
 - **pronouns:** she/her
 - **interests:** programming, computer science, math, statistics
-- **other interests:** half-life, homestuck, oneshot
+- **other interests:** half-life, homestuck, oneshot, undertale
 
 ## what i use
 
